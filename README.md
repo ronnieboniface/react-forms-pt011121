@@ -90,3 +90,11 @@
   * **CALLBACK PROPS**
 
 ![Blog Component Diagrams](https://i.imgur.com/2ERlPfE.png)
+
+
+## Resources
+* [Forms - React](https://reactjs.org/docs/forms.html)
+* [Synthetic Events - React](https://reactjs.org/docs/events.html)
+* [Refs and the DOM - React](https://reactjs.org/docs/refs-and-the-dom.html)
+* [Controlled and uncontrolled form inputs in React don't have to be complicated](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+* [React.js Forms: Controlled Components](https://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)

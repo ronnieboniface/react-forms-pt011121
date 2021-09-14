@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Parent from './components/props-state/Parent';
 import UncontrolledForm from "./components/forms/UncontrolledForm";
 import ControlledForm from "./components/forms/ControlledForm";
+import ControlledValidation from "./components/forms/ControlledValidation";
 import FweetList from "./components/FweetList";
 import FweetForm from "./components/FweetForm";
 import "./assets/styles/app.css";
@@ -44,6 +45,8 @@ class App extends Component {
 
             {/* <UncontrolledForm /> */}
             {/* <ControlledForm /> */}
+
+            {/* <ControlledValidation /> */}
 
             {/* Passing fweets in as props */}
             <FweetList fweets={this.state.fweets} />
