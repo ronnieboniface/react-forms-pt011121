@@ -1,0 +1,12 @@
+.list h1{
+  text-align: center;
+  letter-spacing: 1px;
+  color: white;
+}
+
+.sorry {
+  text-align: center;
+  font-family: 'Lato';
+  font-size: 1.15rem;
+  font-weight: 600;
+}

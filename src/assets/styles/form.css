@@ -1,0 +1,36 @@
+/* .form-container {
+  width: 50%;
+} */
+
+.form-container h1 {
+  text-align: center;
+  letter-spacing: 1px;
+  color: white;
+}
+
+.fweet-form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-weight: 700;
+  margin-bottom: .15rem;
+  font-size: .9rem;
+}
+
+input, textarea {
+  margin-bottom: .5rem;
+  padding: .25rem;
+  font-family: 'Lato';
+  border: none;
+}
+
+button {
+  margin: .5rem 0;
+  padding: .5rem 0;
+  background-color: #E1E8ED;
+  border: none;
+  font-family: 'Lato';
+  font-size: 1rem;
+}
